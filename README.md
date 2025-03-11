@@ -1,3 +1,11 @@
+![Screenshot 2025-03-11 101231](https://github.com/user-attachments/assets/b501a8cd-9cba-4e21-8ed6-6ad42e0fa6b2)
+
+![Screenshot 2025-03-11 101216](https://github.com/user-attachments/assets/a0fb7c2f-8eb3-4ef5-b214-b71bc694e8db)
+
+![Screenshot 2025-03-11 101146](https://github.com/user-attachments/assets/77931317-417a-4c7c-aef5-36bfa8ec0df1)
+
+![Screenshot 2025-03-11 101126](https://github.com/user-attachments/assets/7584259e-20ce-42d0-9456-b3e2bb10cd31)
+
 🤖 Introduction
 
 Build a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. 
